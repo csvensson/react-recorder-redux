@@ -43,8 +43,8 @@
     "react-recorder": "https://github.com/csvensson/react-recorder/tarball/master"
   },
   "peerDependencies": {
-    "react": "^16.0.0",
-    "redux": "^3.0.0",
-    "react-redux": "^5.0.0"
+    "react": "^15.2.1",
+    "redux": "^3.5.2",
+    "react-redux": "^4.4.5"
   }
 }
