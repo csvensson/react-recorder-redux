@@ -40,7 +40,7 @@
     "rimraf": "^2.5.3"
   },
   "dependencies": {
-    "react-recorder": "https://github.com/csvensson/react-recorder/tarball/master"
+    "react-recorder": "https://github.com/csvensson/react-recorder"
   },
   "peerDependencies": {
     "react": "^15.2.1",
